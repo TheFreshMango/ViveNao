@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NaoControlScene.unity
     guid: 3851708c471142c43aea287115869b20
+  - enabled: 1
+    path: Assets/Scenes/NaoLab.unity
+    guid: 44fa8188394f4bb4897321bd4dd25d3c
   m_configObjects: {}
