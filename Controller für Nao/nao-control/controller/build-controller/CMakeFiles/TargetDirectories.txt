@@ -1,0 +1,5 @@
+C:/Users/FreshMango/source/repos/nao-control/controller/build-controller/CMakeFiles/controller.dir
+C:/Users/FreshMango/source/repos/nao-control/controller/build-controller/CMakeFiles/test_controller.dir
+C:/Users/FreshMango/source/repos/nao-control/controller/build-controller/CMakeFiles/INSTALL.dir
+C:/Users/FreshMango/source/repos/nao-control/controller/build-controller/CMakeFiles/ALL_BUILD.dir
+C:/Users/FreshMango/source/repos/nao-control/controller/build-controller/CMakeFiles/ZERO_CHECK.dir

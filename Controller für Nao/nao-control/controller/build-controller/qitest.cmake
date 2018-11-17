@@ -1,0 +1,1 @@
+--name;test_controller;--timeout;20;--;C:/Users/FreshMango/source/repos/nao-control/controller/build-controller/sdk/bin/test_controller_d.exe

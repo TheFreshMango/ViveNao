@@ -1,0 +1,14 @@
+[
+  {
+    "environment": null, 
+    "name": "test_controller", 
+    "cmd": [
+      "C:/Users/FreshMango/source/repos/nao-control/controller/build-controller/sdk/bin/test_controller_d.exe"
+    ], 
+    "nightly": false, 
+    "gtest": false, 
+    "working_directory": null, 
+    "timeout": 20, 
+    "perf": false
+  }
+]

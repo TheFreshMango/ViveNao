@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\FreshMango\source\repos\nao-control\controller\build-controller\CMakeFiles\f481e382ed25cb384ea9cf24d3b92590\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B48C3F11-6D39-311D-AC39-B60AB12E2415}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

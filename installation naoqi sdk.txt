@@ -1,0 +1,37 @@
+- NaoQi SDK für Windows C++ runterladen
+- CMake (Bei Installation "zu Pfad hinzufügen" anklicken)
+- Python 2.7.15
+  Systempfade: PATH (Python27/ und Python27/Scripts/) + PYTHONPATH (Python27/)
+-> pip:
+   curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   python get-pip.py
+-> qibuild:
+   pip install qibuild
+-> [OPTIONAL] Readline Library:
+   pip install pyreadline
+-> Konfiguration von quibuild
+   qibuild config --wizard
+     -> Auswahl: Pfad zu CMake (falls nicht automatisch)
+        IDE: Visual Studio (2x)
+-> NaoQi SDK nach "C:\Program Files\naoqi-sdk\" oder ähnliches verschieben
+   -> Mit CMD navigieren: cd  C:\Program Files\naoqi-sdk\doc\dev\cpp\examples
+   -> Toolchain ausführen: qitoolchain create mytoolchain C:\Program Files\naoqi-sdk\toolchain.xml
+   -> Konfiguration: qibuild add-config mytoolchain -t mytoolchain --default
+   
+   
+Anleitung die Funktioniert:
+
+Neuen Projektordner anlegen für das CPP Projekt
+C:/Users/USER/ORDNER IN DEM DIE PROJEKT GESPEICHERT WERDEN/...
+
+Mit CMD dorthin navigieren und der Anleitung folgen:
+http://doc.aldebaran.com/qibuild/beginner/qibuild/tutorial.html
+
+
+evtl noch mit Toolchain verweisen (vor configure aber nach qibuild create PROJEKT ?)
+
+   -> Toolchain ausführen: qitoolchain create mytoolchain C:\Program Files\naoqi-sdk\toolchain.xml
+   -> Konfiguration: qibuild add-config mytoolchain -t mytoolchain --default
+   
+Für den qibuild open befehl musst du noch per cd in den Projektordner wechseln (der Projektname)
+   
