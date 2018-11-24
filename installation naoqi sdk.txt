@@ -34,4 +34,9 @@ evtl noch mit Toolchain verweisen (vor configure aber nach qibuild create PROJEK
    -> Konfiguration: qibuild add-config mytoolchain -t mytoolchain --default
    
 Für den qibuild open befehl musst du noch per cd in den Projektordner wechseln (der Projektname)
+
+Einrichtung abschließen:
+
+http://doc.aldebaran.com/qibuild/beginner/qibuild/ide/visual_studio.html
+
    
