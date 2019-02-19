@@ -1,0 +1,6 @@
+KIT Bibliothek:
+
+Jung, Timothy "Augmented Reality and Virtual Reality" [2018]
+Korgel, Daniel "Virtual Reality - Spiele entwickeln mit Unity: Grundlagen, Beispielprojekte, Tipps & Tricks" [2018]
+Maier, Helmut "Grundlagen der Robotik" [2016]
+enarcic, Jadran Advances in Robot Kinematics 2018" [2018]
