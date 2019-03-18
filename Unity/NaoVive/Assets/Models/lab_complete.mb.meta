@@ -29,91 +29,88 @@ ModelImporter:
     100046: floor:wall:group1
     100048: floor:wall:group2
     100050: floor_center1:group4
-    100052: floor_center1:pasted__pPlane1
-    100054: floor_center2:group4
-    100056: floor_center2:pasted__pPlane1
-    100058: floor_center3:group4
-    100060: floor_center3:pasted__pPlane1
-    100062: floor_center4:group4
-    100064: floor_center4:pasted__pPlane1
-    100066: floor_center5:group4
-    100068: floor_center5:pasted__pPlane1
-    100070: floor_center:corner:group
-    100072: floor_center:group
-    100074: floor_center:group1
-    100076: floor_center:group2
-    100078: floor_center:group3
-    100080: floor_center:group4
-    100082: floor_center:pasted__pPlane1
-    100084: floor_center:wall:group
-    100086: floor_center:wall:group1
-    100088: floor_center:wall:group2
-    100090: floor_corner1:group1
-    100092: floor_corner1:pasted__pPlane1
-    100094: floor_corner2:group1
-    100096: floor_corner2:pasted__pPlane1
-    100098: floor_corner3:group1
-    100100: floor_corner3:pasted__pPlane1
-    100102: floor_corner:corner:group
-    100104: floor_corner:group
-    100106: floor_corner:group1
-    100108: floor_corner:group2
-    100110: floor_corner:group3
-    100112: floor_corner:group4
-    100114: floor_corner:pasted__pPlane1
-    100116: floor_corner:wall:group
-    100118: floor_corner:wall:group1
-    100120: floor_corner:wall:group2
-    100122: group
-    100124: group1
-    100126: group10
-    100128: group11
-    100130: group12
-    100132: group13
-    100134: group14
-    100136: group15
-    100138: group16
-    100140: group17
-    100142: group18
-    100144: group19
-    100146: group2
-    100148: group20
-    100150: group3
-    100152: group4
-    100154: group5
-    100156: group6
-    100158: group7
-    100160: group8
-    100162: group9
-    100164: //RootNode
-    100166: light
-    100168: light_light
-    100170: pasted__group
-    100172: pasted__group 1
-    100174: pasted__group10
-    100176: pasted__group10 1
-    100178: pasted__group12
-    100180: pasted__group12 1
-    100182: pasted__group12 2
-    100184: pasted__group16
-    100186: pasted__group19
-    100188: pasted__group6
-    100190: pasted__pasted__group10
-    100192: pasted__pasted__group10 1
-    100194: pasted__pasted__group10 2
-    100196: pasted__pasted__group16
-    100198: pasted__pasted__group6
-    100200: pasted__pasted__group6 1
-    100202: pasted__pasted__pasted__group6
-    100204: pasted__pasted__pasted__group6 1
-    100206: pasted__pasted__pasted__group6 2
-    100208: wall1:pPlane1
-    100210: wall2:pPlane1
-    100212: wall3:pPlane1
-    100214: wall:group
-    100216: wall:group1
-    100218: wall:group2
-    100220: wall:pPlane1
+    100052: floor_center2:group4
+    100054: floor_center2:pasted__pPlane1
+    100056: floor_center3:group4
+    100058: floor_center3:pasted__pPlane1
+    100060: floor_center4:group4
+    100062: floor_center4:pasted__pPlane1
+    100064: floor_center5:group4
+    100066: floor_center5:pasted__pPlane1
+    100068: floor_center:corner:group
+    100070: floor_center:group
+    100072: floor_center:group1
+    100074: floor_center:group2
+    100076: floor_center:group3
+    100078: floor_center:group4
+    100080: floor_center:pasted__pPlane1
+    100082: floor_center:wall:group
+    100084: floor_center:wall:group1
+    100086: floor_center:wall:group2
+    100088: floor_corner1:group1
+    100090: floor_corner1:pasted__pPlane1
+    100092: floor_corner2:group1
+    100094: floor_corner2:pasted__pPlane1
+    100096: floor_corner3:group1
+    100098: floor_corner3:pasted__pPlane1
+    100100: floor_corner:corner:group
+    100102: floor_corner:group
+    100104: floor_corner:group1
+    100106: floor_corner:group2
+    100108: floor_corner:group3
+    100110: floor_corner:group4
+    100112: floor_corner:pasted__pPlane1
+    100114: floor_corner:wall:group
+    100116: floor_corner:wall:group1
+    100118: floor_corner:wall:group2
+    100120: group
+    100122: group1
+    100124: group10
+    100126: group11
+    100128: group12
+    100130: group13
+    100132: group14
+    100134: group15
+    100136: group16
+    100138: group17
+    100140: group18
+    100142: group19
+    100144: group2
+    100146: group20
+    100148: group3
+    100150: group4
+    100152: group5
+    100154: group6
+    100156: group7
+    100158: group8
+    100160: group9
+    100162: //RootNode
+    100164: pasted__group
+    100166: pasted__group 1
+    100168: pasted__group10
+    100170: pasted__group10 1
+    100172: pasted__group12
+    100174: pasted__group12 1
+    100176: pasted__group12 2
+    100178: pasted__group16
+    100180: pasted__group19
+    100182: pasted__group6
+    100184: pasted__pasted__group10
+    100186: pasted__pasted__group10 1
+    100188: pasted__pasted__group10 2
+    100190: pasted__pasted__group16
+    100192: pasted__pasted__group6
+    100194: pasted__pasted__group6 1
+    100196: pasted__pasted__pasted__group6
+    100198: pasted__pasted__pasted__group6 1
+    100200: pasted__pasted__pasted__group6 2
+    100202: wall1:pPlane1
+    100204: wall2:pPlane1
+    100206: wall3:pPlane1
+    100208: wall:group
+    100210: wall:group1
+    100212: wall:group2
+    100214: wall:pPlane1
     400000: corner1:group
     400002: corner1:pasted__pPlane1
     400004: corner2:group
@@ -140,91 +137,88 @@ ModelImporter:
     400046: floor:wall:group1
     400048: floor:wall:group2
     400050: floor_center1:group4
-    400052: floor_center1:pasted__pPlane1
-    400054: floor_center2:group4
-    400056: floor_center2:pasted__pPlane1
-    400058: floor_center3:group4
-    400060: floor_center3:pasted__pPlane1
-    400062: floor_center4:group4
-    400064: floor_center4:pasted__pPlane1
-    400066: floor_center5:group4
-    400068: floor_center5:pasted__pPlane1
-    400070: floor_center:corner:group
-    400072: floor_center:group
-    400074: floor_center:group1
-    400076: floor_center:group2
-    400078: floor_center:group3
-    400080: floor_center:group4
-    400082: floor_center:pasted__pPlane1
-    400084: floor_center:wall:group
-    400086: floor_center:wall:group1
-    400088: floor_center:wall:group2
-    400090: floor_corner1:group1
-    400092: floor_corner1:pasted__pPlane1
-    400094: floor_corner2:group1
-    400096: floor_corner2:pasted__pPlane1
-    400098: floor_corner3:group1
-    400100: floor_corner3:pasted__pPlane1
-    400102: floor_corner:corner:group
-    400104: floor_corner:group
-    400106: floor_corner:group1
-    400108: floor_corner:group2
-    400110: floor_corner:group3
-    400112: floor_corner:group4
-    400114: floor_corner:pasted__pPlane1
-    400116: floor_corner:wall:group
-    400118: floor_corner:wall:group1
-    400120: floor_corner:wall:group2
-    400122: group
-    400124: group1
-    400126: group10
-    400128: group11
-    400130: group12
-    400132: group13
-    400134: group14
-    400136: group15
-    400138: group16
-    400140: group17
-    400142: group18
-    400144: group19
-    400146: group2
-    400148: group20
-    400150: group3
-    400152: group4
-    400154: group5
-    400156: group6
-    400158: group7
-    400160: group8
-    400162: group9
-    400164: //RootNode
-    400166: light
-    400168: light_light
-    400170: pasted__group
-    400172: pasted__group 1
-    400174: pasted__group10
-    400176: pasted__group10 1
-    400178: pasted__group12
-    400180: pasted__group12 1
-    400182: pasted__group12 2
-    400184: pasted__group16
-    400186: pasted__group19
-    400188: pasted__group6
-    400190: pasted__pasted__group10
-    400192: pasted__pasted__group10 1
-    400194: pasted__pasted__group10 2
-    400196: pasted__pasted__group16
-    400198: pasted__pasted__group6
-    400200: pasted__pasted__group6 1
-    400202: pasted__pasted__pasted__group6
-    400204: pasted__pasted__pasted__group6 1
-    400206: pasted__pasted__pasted__group6 2
-    400208: wall1:pPlane1
-    400210: wall2:pPlane1
-    400212: wall3:pPlane1
-    400214: wall:group
-    400216: wall:group1
-    400218: wall:group2
-    400220: wall:pPlane1
+    400052: floor_center2:group4
+    400054: floor_center2:pasted__pPlane1
+    400056: floor_center3:group4
+    400058: floor_center3:pasted__pPlane1
+    400060: floor_center4:group4
+    400062: floor_center4:pasted__pPlane1
+    400064: floor_center5:group4
+    400066: floor_center5:pasted__pPlane1
+    400068: floor_center:corner:group
+    400070: floor_center:group
+    400072: floor_center:group1
+    400074: floor_center:group2
+    400076: floor_center:group3
+    400078: floor_center:group4
+    400080: floor_center:pasted__pPlane1
+    400082: floor_center:wall:group
+    400084: floor_center:wall:group1
+    400086: floor_center:wall:group2
+    400088: floor_corner1:group1
+    400090: floor_corner1:pasted__pPlane1
+    400092: floor_corner2:group1
+    400094: floor_corner2:pasted__pPlane1
+    400096: floor_corner3:group1
+    400098: floor_corner3:pasted__pPlane1
+    400100: floor_corner:corner:group
+    400102: floor_corner:group
+    400104: floor_corner:group1
+    400106: floor_corner:group2
+    400108: floor_corner:group3
+    400110: floor_corner:group4
+    400112: floor_corner:pasted__pPlane1
+    400114: floor_corner:wall:group
+    400116: floor_corner:wall:group1
+    400118: floor_corner:wall:group2
+    400120: group
+    400122: group1
+    400124: group10
+    400126: group11
+    400128: group12
+    400130: group13
+    400132: group14
+    400134: group15
+    400136: group16
+    400138: group17
+    400140: group18
+    400142: group19
+    400144: group2
+    400146: group20
+    400148: group3
+    400150: group4
+    400152: group5
+    400154: group6
+    400156: group7
+    400158: group8
+    400160: group9
+    400162: //RootNode
+    400164: pasted__group
+    400166: pasted__group 1
+    400168: pasted__group10
+    400170: pasted__group10 1
+    400172: pasted__group12
+    400174: pasted__group12 1
+    400176: pasted__group12 2
+    400178: pasted__group16
+    400180: pasted__group19
+    400182: pasted__group6
+    400184: pasted__pasted__group10
+    400186: pasted__pasted__group10 1
+    400188: pasted__pasted__group10 2
+    400190: pasted__pasted__group16
+    400192: pasted__pasted__group6
+    400194: pasted__pasted__group6 1
+    400196: pasted__pasted__pasted__group6
+    400198: pasted__pasted__pasted__group6 1
+    400200: pasted__pasted__pasted__group6 2
+    400202: wall1:pPlane1
+    400204: wall2:pPlane1
+    400206: wall3:pPlane1
+    400208: wall:group
+    400210: wall:group1
+    400212: wall:group2
+    400214: wall:pPlane1
     2100000: corner_lambert2
     2100002: wall_lambert2
     2100004: corner1_lambert2
@@ -246,12 +240,10 @@ ModelImporter:
     2100036: floor6_lambert4
     2100038: floor7_lambert4
     2100040: floor_center_pasted__lambert5
-    2100042: floor_center1_pasted__lambert5
-    2100044: floor_center2_pasted__lambert5
-    2100046: floor_center3_pasted__lambert5
-    2100048: floor_center4_pasted__lambert5
-    2100050: lambert2
-    2100052: lambert1
+    2100042: floor_center2_pasted__lambert5
+    2100044: floor_center3_pasted__lambert5
+    2100046: floor_center4_pasted__lambert5
+    2100048: lambert2
     2300000: corner1:pasted__pPlane1
     2300002: corner2:pasted__pPlane1
     2300004: corner3:pasted__pPlane1
@@ -264,21 +256,19 @@ ModelImporter:
     2300018: floor6:pPlane1
     2300020: floor7:pPlane1
     2300022: floor:pPlane1
-    2300024: floor_center1:pasted__pPlane1
-    2300026: floor_center2:pasted__pPlane1
-    2300028: floor_center3:pasted__pPlane1
-    2300030: floor_center4:pasted__pPlane1
-    2300032: floor_center5:pasted__pPlane1
-    2300034: floor_center:pasted__pPlane1
-    2300036: floor_corner1:pasted__pPlane1
-    2300038: floor_corner2:pasted__pPlane1
-    2300040: floor_corner3:pasted__pPlane1
-    2300042: floor_corner:pasted__pPlane1
-    2300044: light
-    2300046: wall1:pPlane1
-    2300048: wall2:pPlane1
-    2300050: wall3:pPlane1
-    2300052: wall:pPlane1
+    2300024: floor_center2:pasted__pPlane1
+    2300026: floor_center3:pasted__pPlane1
+    2300028: floor_center4:pasted__pPlane1
+    2300030: floor_center5:pasted__pPlane1
+    2300032: floor_center:pasted__pPlane1
+    2300034: floor_corner1:pasted__pPlane1
+    2300036: floor_corner2:pasted__pPlane1
+    2300038: floor_corner3:pasted__pPlane1
+    2300040: floor_corner:pasted__pPlane1
+    2300042: wall1:pPlane1
+    2300044: wall2:pPlane1
+    2300046: wall3:pPlane1
+    2300048: wall:pPlane1
     3300000: corner1:pasted__pPlane1
     3300002: corner2:pasted__pPlane1
     3300004: corner3:pasted__pPlane1
@@ -291,21 +281,19 @@ ModelImporter:
     3300018: floor6:pPlane1
     3300020: floor7:pPlane1
     3300022: floor:pPlane1
-    3300024: floor_center1:pasted__pPlane1
-    3300026: floor_center2:pasted__pPlane1
-    3300028: floor_center3:pasted__pPlane1
-    3300030: floor_center4:pasted__pPlane1
-    3300032: floor_center5:pasted__pPlane1
-    3300034: floor_center:pasted__pPlane1
-    3300036: floor_corner1:pasted__pPlane1
-    3300038: floor_corner2:pasted__pPlane1
-    3300040: floor_corner3:pasted__pPlane1
-    3300042: floor_corner:pasted__pPlane1
-    3300044: light
-    3300046: wall1:pPlane1
-    3300048: wall2:pPlane1
-    3300050: wall3:pPlane1
-    3300052: wall:pPlane1
+    3300024: floor_center2:pasted__pPlane1
+    3300026: floor_center3:pasted__pPlane1
+    3300028: floor_center4:pasted__pPlane1
+    3300030: floor_center5:pasted__pPlane1
+    3300032: floor_center:pasted__pPlane1
+    3300034: floor_corner1:pasted__pPlane1
+    3300036: floor_corner2:pasted__pPlane1
+    3300038: floor_corner3:pasted__pPlane1
+    3300040: floor_corner:pasted__pPlane1
+    3300042: wall1:pPlane1
+    3300044: wall2:pPlane1
+    3300046: wall3:pPlane1
+    3300048: wall:pPlane1
     4300000: corner:pasted__pPlane1
     4300002: wall:pPlane1
     4300004: corner1:pasted__pPlane1
@@ -327,12 +315,10 @@ ModelImporter:
     4300036: floor6:pPlane1
     4300038: floor7:pPlane1
     4300040: floor_center:pasted__pPlane1
-    4300042: floor_center1:pasted__pPlane1
-    4300044: floor_center2:pasted__pPlane1
-    4300046: floor_center3:pasted__pPlane1
-    4300048: floor_center4:pasted__pPlane1
-    4300050: floor_center5:pasted__pPlane1
-    4300052: light
+    4300042: floor_center2:pasted__pPlane1
+    4300044: floor_center3:pasted__pPlane1
+    4300046: floor_center4:pasted__pPlane1
+    4300048: floor_center5:pasted__pPlane1
   externalObjects: {}
   materials:
     importMaterials: 1
