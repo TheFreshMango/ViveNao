@@ -1,0 +1,3 @@
+1. Bauen der DLL
+2. Kopie der DLL in bin/ bei NaoCSharpLibrary
+3. Ausführen!
