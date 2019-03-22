@@ -1,0 +1,2 @@
+1. Durch die 32-Bit dll ist die Nao Kompatibilität im Editor nicht gegeben!
+2. Zum TESTEN: Build & Run mit x86
