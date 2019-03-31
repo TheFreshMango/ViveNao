@@ -1,4 +1,3 @@
-- Canvas Group: extra Menü für Posen
 - GetImageRemote(): Video in Unity Labor anzeigen
 - Refactoring C++-Programm
 - Nao Ton in virtueller Umgebung
