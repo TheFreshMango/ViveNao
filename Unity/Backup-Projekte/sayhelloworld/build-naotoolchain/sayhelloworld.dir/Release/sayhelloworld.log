@@ -1,0 +1,18 @@
+﻿Der Buildvorgang wurde am 28.02.2019 15:30:41 gestartet.
+     1>Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sayhelloworld.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         Aktualisieren des Timestamps von "sayhelloworld.dir\Release\sayhelloworld.unsuccessfulbuild".
+       CustomBuild:
+         Alle Ausgaben sind aktuell.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sdk\bin\sayhelloworld.exe" /INCREMENTAL:NO /NOLOGO "C:\Program Files\NaoSDK\naoqi-sdk\lib\alproxies.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alcommon.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_signals-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\rttools.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alvalue.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alerror.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qimessaging.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qitype.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qi.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_filesystem-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_program_options-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_regex-vc100-mt-1_55.lib" wsock32.lib iphlpapi.lib psapi.lib "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_date_time-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_locale-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_thread-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\pthreadVCE2.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_chrono-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_system-vc100-mt-1_55.lib" ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"sayhelloworld.dir\Release\sayhelloworld.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/sdk/bin/sayhelloworld.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/Release/sayhelloworld.lib" /MACHINE:X86 sayhelloworld.dir\Release\sayhelloworld.obj  /machine:X86
+            Bibliothek "C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/Release/sayhelloworld.lib" und Objekt "C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/Release/sayhelloworld.exp" werden erstellt.
+     1>MSVCRT.lib(crtexe.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_main" in Funktion "___tmainCRTStartup".
+     1>C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sdk\bin\sayhelloworld.exe : fatal error LNK1120: 1 nicht aufgelöste externe Verweise.
+     1>Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sayhelloworld.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:00.39

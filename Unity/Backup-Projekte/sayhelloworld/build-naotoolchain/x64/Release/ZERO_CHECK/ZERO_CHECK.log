@@ -1,0 +1,15 @@
+﻿Der Buildvorgang wurde am 28.02.2019 13:51:50 gestartet.
+     1>Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\ZERO_CHECK.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "x64\Release\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Die Datei "x64\Release\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "x64\Release\ZERO_CHECK\ZERO_CHECK.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\ZERO_CHECK.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.40

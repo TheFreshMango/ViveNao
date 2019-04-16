@@ -1,5 +1,7 @@
-- GetImageRemote(): Video in Unity Labor anzeigen
 - Refactoring C++-Programm
 - Nao Ton in virtueller Umgebung
 - Zusätzliche Menüpunkte (Tanzen, Winken)
-- Start-Menü
+- Start-Menü  (Melodie)
+- delete headcollider
+- IP-Adresse auswählen
+- Nao gehen

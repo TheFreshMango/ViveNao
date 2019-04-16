@@ -1,0 +1,76 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_666db.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R)-Build-Engine, Version 15.8.169+g1ccb72aefa für .NET Framework
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 22.02.2019 10:14:11 gestartet.
+Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_666db.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "cmTC_666db.dir\Debug\" wird erstellt.
+  Das Verzeichnis "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\Debug\" wird erstellt.
+  Das Verzeichnis "cmTC_666db.dir\Debug\cmTC_666db.tlog\" wird erstellt.
+InitializeBuildStatus:
+  "cmTC_666db.dir\Debug\cmTC_666db.tlog\unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_666db.dir\Debug\\" /Fd"cmTC_666db.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.15.26730 für x86
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_666db.dir\Debug\\" /Fd"cmTC_666db.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+c:\program files\naosdk\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "pthread.h": No such file or directory [C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_666db.vcxproj]
+Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_666db.vcxproj" ist abgeschlossen (Standardziele) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+"C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_666db.vcxproj" (Standardziel) (1) ->
+(ClCompile Ziel) -> 
+  c:\program files\naosdk\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "pthread.h": No such file or directory [C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_666db.vcxproj]
+
+    0 Warnung(en)
+    1 Fehler
+
+Verstrichene Zeit 00:00:00.94
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_6f1bc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft (R)-Buildmodul, Version 4.7.3056.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 22.02.2019 10:29:17 gestartet.
+Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_6f1bc.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "cmTC_6f1bc.dir\Debug\" wird erstellt.
+  Das Verzeichnis "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\Debug\" wird erstellt.
+InitializeBuildStatus:
+  "cmTC_6f1bc.dir\Debug\cmTC_6f1bc.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6f1bc.dir\Debug\\" /Fd"cmTC_6f1bc.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckIncludeFile.c
+  Microsoft (R) 32-Bit C/C++-Optimierungscompiler Version 16.00.30319.01 für 80x86
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6f1bc.dir\Debug\\" /Fd"cmTC_6f1bc.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue CheckIncludeFile.c
+  
+CheckIncludeFile.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "pthread.h": No such file or directory [C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_6f1bc.vcxproj]
+Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_6f1bc.vcxproj" ist abgeschlossen (Standardziele) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+"C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_6f1bc.vcxproj" (Standardziel) (1) ->
+(ClCompile Ziel) -> 
+  CheckIncludeFile.c(1): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "pthread.h": No such file or directory [C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\CMakeFiles\CMakeTmp\cmTC_6f1bc.vcxproj]
+
+    0 Warnung(en)
+    1 Fehler
+
+Verstrichene Zeit 00:00:00.66
+
+

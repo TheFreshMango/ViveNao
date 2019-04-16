@@ -1,0 +1,6 @@
+C:\Users\Isa\source\repos\NaoCSharpLibrary\NaoCSharpLibrary\bin\Debug\NaoCSharpLibrary.dll
+C:\Users\Isa\source\repos\NaoCSharpLibrary\NaoCSharpLibrary\bin\Debug\NaoCSharpLibrary.pdb
+C:\Users\Isa\source\repos\NaoCSharpLibrary\NaoCSharpLibrary\obj\Debug\NaoCSharpLibrary.csprojAssemblyReference.cache
+C:\Users\Isa\source\repos\NaoCSharpLibrary\NaoCSharpLibrary\obj\Debug\NaoCSharpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Isa\source\repos\NaoCSharpLibrary\NaoCSharpLibrary\obj\Debug\NaoCSharpLibrary.dll
+C:\Users\Isa\source\repos\NaoCSharpLibrary\NaoCSharpLibrary\obj\Debug\NaoCSharpLibrary.pdb

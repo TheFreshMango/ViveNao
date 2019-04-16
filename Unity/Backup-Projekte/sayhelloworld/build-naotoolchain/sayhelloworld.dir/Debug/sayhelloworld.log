@@ -1,0 +1,37 @@
+﻿Der Buildvorgang wurde am 16.04.2019 12:10:15 gestartet.
+     1>Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sayhelloworld.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         Aktualisieren des Timestamps von "sayhelloworld.dir\Debug\sayhelloworld.unsuccessfulbuild".
+       CustomBuild:
+         Alle Ausgaben sind aktuell.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\NaoSDK\naoqi-sdk\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D BOOST_ALL_DYN_LINK /D "CMAKE_INTDIR=\"Debug\"" /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sayhelloworld.dir\Debug\\" /Fd"sayhelloworld.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\sayhelloworld.cpp
+         sayhelloworld.cpp
+     1>C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/signal.hpp(41): warning C4275: class 'boost::noncopyable_::noncopyable' ist keine DLL-Schnittstelle und wurde als Basisklasse für die DLL-Schnittstelle class 'qi::SignalBase' verwendet
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\boost/noncopyable.hpp(24): Siehe Deklaration von 'boost::noncopyable_::noncopyable'
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/signal.hpp(40): Siehe Deklaration von 'qi::SignalBase'
+     1>C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/details/anyobject.hxx(473): warning C4275: class 'boost::noncopyable_::noncopyable' ist keine DLL-Schnittstelle und wurde als Basisklasse für die DLL-Schnittstelle class 'qi::Proxy' verwendet
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\boost/noncopyable.hpp(24): Siehe Deklaration von 'boost::noncopyable_::noncopyable'
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/details/anyobject.hxx(472): Siehe Deklaration von 'qi::Proxy'
+     1>..\sayhelloworld.cpp(47): warning C4273: 'NaoSit': Inkonsistente DLL-Bindung.
+                 c:\program files\naosdk\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain/sayhelloworld.h(10): Siehe vorherige Definition von 'NaoSit'
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sdk\bin\sayhelloworld_d.dll" /INCREMENTAL /NOLOGO "C:\Program Files\NaoSDK\naoqi-sdk\lib\alproxies_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alcommon_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_signals-vc100-mt-gd-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\rttools_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alvalue_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alerror_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qimessaging_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qitype_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qi_d.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_filesystem-vc100-mt-gd-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_program_options-vc100-mt-gd-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_regex-vc100-mt-gd-1_55.lib" wsock32.lib iphlpapi.lib psapi.lib "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_date_time-vc100-mt-gd-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_locale-vc100-mt-gd-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_thread-vc100-mt-gd-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\pthreadVCE2.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_chrono-vc100-mt-gd-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_system-vc100-mt-gd-1_55.lib" ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"sayhelloworld.dir\Debug\sayhelloworld_d.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/sdk/bin/sayhelloworld_d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/Debug/sayhelloworld_d.lib" /MACHINE:X86 /DLL sayhelloworld.dir\Debug\sayhelloworld_d.dll.embed.manifest.res
+         sayhelloworld.dir\Debug\sayhelloworld.obj  /machine:X86
+            Bibliothek "C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/Debug/sayhelloworld_d.lib" und Objekt "C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/Debug/sayhelloworld_d.exp" werden erstellt.
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"sayhelloworld.dir\Debug\sayhelloworld_d.dll.embed.manifest" /manifest sayhelloworld.dir\Debug\sayhelloworld_d.dll.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         sayhelloworld.vcxproj -> C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sdk\bin\sayhelloworld_d.dll
+       FinalizeBuildStatus:
+         Die Datei "sayhelloworld.dir\Debug\sayhelloworld.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "sayhelloworld.dir\Debug\sayhelloworld.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sayhelloworld.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:21.40

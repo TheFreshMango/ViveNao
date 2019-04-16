@@ -1,0 +1,32 @@
+﻿Der Buildvorgang wurde am 28.02.2019 13:52:38 gestartet.
+     1>Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sayhelloworld.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "sayhelloworld.dir\MinSizeRel\sayhelloworld.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       CustomBuild:
+         Building Custom Rule C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/CMakeLists.txt
+         CMake does not need to re-run because C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/generate.stamp is up-to-date.
+       MakeDirsForCl:
+         Das Verzeichnis "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\MinSizeRel" wird erstellt.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\NaoSDK\naoqi-sdk\include" /nologo /W3 /WX- /O1 /Ob1 /D WIN32 /D _WINDOWS /D NDEBUG /D BOOST_ALL_DYN_LINK /D "CMAKE_INTDIR=\"MinSizeRel\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"sayhelloworld.dir\MinSizeRel\\" /Fd"sayhelloworld.dir\MinSizeRel\vc100.pdb" /Gd /TP /errorReport:prompt ..\sayhelloworld.cpp
+         sayhelloworld.cpp
+     1>C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/signal.hpp(41): warning C4275: non dll-interface class 'boost::noncopyable_::noncopyable' used as base for dll-interface class 'qi::SignalBase'
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\boost/noncopyable.hpp(24) : see declaration of 'boost::noncopyable_::noncopyable'
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/signal.hpp(40) : see declaration of 'qi::SignalBase'
+     1>C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/details/anyobject.hxx(473): warning C4275: non dll-interface class 'boost::noncopyable_::noncopyable' used as base for dll-interface class 'qi::Proxy'
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\boost/noncopyable.hpp(24) : see declaration of 'boost::noncopyable_::noncopyable'
+                 C:\Program Files\NaoSDK\naoqi-sdk\include\qitype/details/anyobject.hxx(472) : see declaration of 'qi::Proxy'
+     1>..\sayhelloworld.cpp(18): warning C4273: 'NaoWalk' : inconsistent dll linkage
+                 c:\program files\naosdk\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain/sayhelloworld.h(12) : see previous definition of 'NaoWalk'
+     1>..\sayhelloworld.cpp(27): warning C4273: 'NaoSit' : inconsistent dll linkage
+                 c:\program files\naosdk\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain/sayhelloworld.h(10) : see previous definition of 'NaoSit'
+     1>..\sayhelloworld.cpp(40): warning C4273: 'NaoTalk' : inconsistent dll linkage
+                 c:\program files\naosdk\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain/sayhelloworld.h(11) : see previous definition of 'NaoTalk'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sdk\bin\sayhelloworld.exe" /INCREMENTAL:NO /NOLOGO "C:\Program Files\NaoSDK\naoqi-sdk\lib\alproxies.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alcommon.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_signals-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\rttools.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alvalue.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\alerror.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qimessaging.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qitype.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\qi.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_filesystem-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_program_options-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_regex-vc100-mt-1_55.lib" wsock32.lib iphlpapi.lib psapi.lib "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_date_time-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_locale-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_thread-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\pthreadVCE2.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_chrono-vc100-mt-1_55.lib" "C:\Program Files\NaoSDK\naoqi-sdk\lib\boost_system-vc100-mt-1_55.lib" ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"sayhelloworld.dir\MinSizeRel\sayhelloworld.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/sdk/bin/sayhelloworld.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/MinSizeRel/sayhelloworld.lib" /MACHINE:X64 sayhelloworld.dir\MinSizeRel\sayhelloworld.obj  /machine:X86
+     1>sayhelloworld.dir\MinSizeRel\sayhelloworld.obj : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\sayhelloworld.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:11.96

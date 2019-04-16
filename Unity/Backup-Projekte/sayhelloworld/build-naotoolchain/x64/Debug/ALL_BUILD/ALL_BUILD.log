@@ -1,0 +1,15 @@
+﻿Der Buildvorgang wurde am 26.02.2019 10:34:11 gestartet.
+     1>Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\ALL_BUILD.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "x64\Debug\ALL_BUILD\ALL_BUILD.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       CustomBuild:
+         Building Custom Rule C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/CMakeLists.txt
+         CMake does not need to re-run because C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Die Datei "x64\Debug\ALL_BUILD\ALL_BUILD.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "x64\Debug\ALL_BUILD\ALL_BUILD.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\ALL_BUILD.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.10

@@ -1,0 +1,2 @@
+/share/qi/path.conf
+/bin/sayhelloworld_d.exe

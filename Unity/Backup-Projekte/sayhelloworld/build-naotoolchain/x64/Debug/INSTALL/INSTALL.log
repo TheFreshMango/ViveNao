@@ -1,0 +1,27 @@
+﻿Der Buildvorgang wurde am 26.02.2019 10:45:31 gestartet.
+     1>Projekt "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\INSTALL.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "x64\Debug\INSTALL\INSTALL.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       PostBuildEvent:
+         setlocal
+         "C:\Program Files\CMake\bin\cmake.exe" -DBUILD_TYPE=Debug -P cmake_install.cmake
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         :VCEnd
+         -- Install configuration: "Debug"
+         -- Installing: /share/qi
+         -- Installing: /share/qi/path.conf
+         -- Installing: /bin/sayhelloworld_d.exe
+       FinalizeBuildStatus:
+         Die Datei "x64\Debug\INSTALL\INSTALL.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "x64\Debug\INSTALL\INSTALL.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Program Files\NaoSDK\naoqi-sdk\doc\dev\cpp\examples\core\sayhelloworld\build-naotoolchain\INSTALL.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.22

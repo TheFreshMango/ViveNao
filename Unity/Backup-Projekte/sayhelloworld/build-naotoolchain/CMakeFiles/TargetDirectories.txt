@@ -1,0 +1,4 @@
+C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/sayhelloworld.dir
+C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/INSTALL.dir
+C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/ALL_BUILD.dir
+C:/Program Files/NaoSDK/naoqi-sdk/doc/dev/cpp/examples/core/sayhelloworld/build-naotoolchain/CMakeFiles/ZERO_CHECK.dir
